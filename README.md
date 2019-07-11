@@ -1,4 +1,4 @@
-# RESULTS
+# GAN model results
 
 ## 1. BasicGAN
 
